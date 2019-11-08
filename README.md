@@ -1,2 +1,3 @@
 # Ionic-Crash-Course
- Ionic crash course. Ionic is a complete open-source SDK for hybrid mobile app development.
+
+Ionic crash course using Angular. Ionic is a complete open-source SDK for hybrid mobile app development.
